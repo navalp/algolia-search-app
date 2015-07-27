@@ -1,0 +1,22 @@
+{
+  "name": "searchapp",
+  "version": "1.0.0",
+  "authors": [
+    "naval patel <navalp@neuronsolutions.com>"
+  ],
+  "description": "search application",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "bootstrap": "~3.3.5",
+    "ng-simplePagination": "~1.0.3"
+  }
+}
